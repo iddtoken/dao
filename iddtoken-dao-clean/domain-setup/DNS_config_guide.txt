@@ -1,0 +1,8 @@
+To connect idd.x to IPFS using Unstoppable Domains:
+
+1. Upload your site to IPFS (via Fleek, Pinata, or IPFS Desktop).
+2. Copy the resulting IPFS hash (e.g., QmXYZ...).
+3. Go to your domain settings on Unstoppable Domains.
+4. Under 'Website', select 'Use existing IPFS hash'.
+5. Set subdomain: constitution
+6. Set hash: [Paste your IPFS hash here]
